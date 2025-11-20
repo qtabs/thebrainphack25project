@@ -4,8 +4,6 @@ https://doi.org/10.1017/S1366728921000699
 
 
 
-NOTE: this article includes other analyses and experiments I did not report here, because they used ANOVAs or other statistical tests that were not linear mixed effects models.
-
 
 
 # Methods
@@ -42,7 +40,7 @@ Experiment 2
 
 average age of 3.70 years (range: 3.20–4.10).
 
-9 males and 12 females.
+9 males and 12 females. 
 
 
 
@@ -96,9 +94,9 @@ Experiment 1
 
 Modified version of the Language Experience and Proficiency Questionnaire (Marian,
 
-Blumenfeld \& Kaushanskaya, 2007) for assessing the children’s language background and proficiency.
+Blumenfeld \& Kaushanskaya, 2007) for assessing the children’s language background and proficiency. 
 
-**10 English-dominant** children and **9 French-dominant** children.
+**10 English-dominant** children and **9 French-dominant** children. 
 
 **8 children** regularly exposed to both English and French **from birth** (i.e., were simultaneous
 
@@ -110,9 +108,9 @@ Children’s exposure to intra-sentential language mixing was measured via the L
 
 
 
-Children’s productive vocabulary was measured in each of their languages via the Developmental Vocabulary Assessment for Parents (DVAP; Libertus, Odic, Feigenson \& Halberda, 2015) and, for French, an adaptation of a checklist similar to the DVAP, based on words used in the French adaptation of the PPVT (Échelle de vocabulaire en images Peabody; Dunn, Dunn \& Thériault-Whalen, 1993).
+Children’s productive vocabulary was measured in each of their languages via the Developmental Vocabulary Assessment for Parents (DVAP; Libertus, Odic, Feigenson \& Halberda, 2015) and, for French, an adaptation of a checklist similar to the DVAP, based on words used in the French adaptation of the PPVT (Échelle de vocabulaire en images Peabody; Dunn, Dunn \& Thériault-Whalen, 1993). 
 
-**Data were missing for one language for one participant.**
+**Data were missing for one language for one participant.** 
 
 average of **77 words** in their dominant language (**range: 37–177**), **48 words** in their non-dominant language **(range: 2–131) \[t(17) = 6.08, p < .001, d = 1.43]**
 
@@ -136,7 +134,7 @@ average score = 16.50 (range: 0–30) --> not statistically different from the a
 
 Socioeconomic status was assessed via mothers’ highest educational attainment: 7 had completed a graduate degree, 4 had completed some university, 5 had completed high school, 3 had not completed high school, and 2 did not report. As in Experiment 1, these categories were then converted to approximate years of education-->  average educational
 
-attainment = 14.40 years (SD = 4.10).
+attainment = 14.40 years (SD = 4.10). 
 
 We infer that the sample of Spanish–English bilingual children had a different profile of
 
@@ -154,7 +152,7 @@ Explored whether performance at test was predicted by performance during the lea
 
 
 
-fixed effects:
+fixed effects: 
 
 * performance during the learning phase sentence type
 * population
@@ -205,4 +203,6 @@ Experiment 2
 Stimuli, data, and analysis scripts are available via the Open
 
 Science Framework at https://osf.io/q2nzr/.
+
+
 
